@@ -3,7 +3,7 @@
 * 基础入门
 * - [快速入门](fast.md)  
 * - [配置讲解](config.md)
-* - [部署教程](/deploy.md)
+* - [部署教程](deploy.md)
 * 高深进阶
 * - [消息持久化](store.md) 
 * 其他
